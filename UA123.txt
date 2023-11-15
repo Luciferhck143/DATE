@@ -18,7 +18,7 @@ FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/;FBMF/samsung;FBBD/sam
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/EE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9505;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/EE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Meteor;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
-FBDM/{density=3.0,width=1080,height=1920};FBL/Cen_US;FBCR/eMobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9505;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
+FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/eMobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9505;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/vodafone IE;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/vodafone IE;FBMF/Vodafone;FBBD/Vodafone;FBPN/com.facebook.katana;FBDV/Vodafone Smart ultra 6;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/vodafone IE;FBMF/Vodafone;FBBD/Vodafone;FBPN/com.facebook.katana;FBDV/Vodafone Smart ultra 6;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
