@@ -1,3 +1,4 @@
+FBDM/{density=1.75,width=720,height=1471};FBLC/en_US;FBRV/687735939;FBCR/YOTA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A025F;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 FBDM/{density=2.625,width=1080,height=2131};FBLC/en_US;FBRV/184895505;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505GN;FBSV/9;FBOP/19;FBCA/arm64-v8a:;]
 FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/341598563;FBCR/Verizon ;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.katana;FBDV/SM-N920V;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
