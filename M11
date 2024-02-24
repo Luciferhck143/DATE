@@ -1,6 +1,4 @@
 def M11():
-    version = random.choice(["9", "10", "11"])
-    network = random.choice(["Jazz", "Zong", "Mobilink", "Ufone", "Telenor", "Warid", "Djuice", "Vodafone"])
-    pkgs = random.choice(['com.facebook.katana', 'com.facebook.mlite', 'com.facebook.lite', 'com.facebook.adsmanager', 'com.facebook.liteh'])
-    ua = f"Dalvik/2.1.0 (Linux; U; Android {version}; SM-A307GT Build/RP1A.2007{random.randint(10,20)}.012) [FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/{random.randint(230541497, 230541498)};FBDM/{{density=2.0,width=720,height=1560}};FBLC/en_US;FBRV/{random.randint(219312790, 219312810)};FBCR/{network};FBMF/samsung;FBBD/samsung;FBPN/{pkgs};FBDV/SM-A307GT;FBSV/{version};FBOP/1;FBCA/arm64-v8a:;]"
+    END = '[FBAN/Orca-Android;FBAV/415.0.0.34.107;FBBV/442016421;[FBAN/Orca-Android;FBAV/271.0.0.11.120;FBPN/com.facebook.orca;FBLC/en_US;FBBV/227270172;FBCR/Telecom;FBMF/el'+'eph'+'one;FBBD/elep'+'hone;FBDV/Vo'+'wn'+'ey;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=4.0,width=1440,height=2368};FB_FW/1;]'
+    ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(kkkkki)} Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)}) '+END
     return ua
