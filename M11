@@ -1,5 +1,6 @@
-def M11():    
-	a = "[FBAN/FB4A;FBAV/"+str(random.randint(399,450))+'.0.0.'+str(random.randrange(9,29))+str(random.randint(11,315)) +";FBBV/"+str(random.randint(111111111,459999999))              
-	b = ";[FBAN/FB4A;FBAV/450.0.0.42.110;FBLC/en_US;FBBV/449017334;FBCR/MetroPCS;FBMF/HUAWEI;FBBD/MetroPCS;FBDV/Huawei_Y301A2;FBSV/4.1.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=480,height=800};FB_FW/1;]"
-	ua = a+b
-	return ua
+def M11():
+    version = random.choice(["9", "10", "11"])
+    network = random.choice(["Jazz", "Zong", "Mobilink", "Ufone", "Telenor", "Warid", "Djuice", "Vodafone"])
+    pkgs = random.choice(['com.facebook.katana', 'com.facebook.mlite', 'com.facebook.lite', 'com.facebook.adsmanager', 'com.facebook.liteh'])
+    ua = f"Dalvik/2.1.0 (Linux; U; Android {version}; SM-A307GT Build/RP1A.2007{random.randint(10,20)}.012) [FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/{random.randint(230541497, 230541498)};FBDM/{{density=2.0,width=720,height=1560}};FBLC/en_US;FBRV/{random.randint(219312790, 219312810)};FBCR/{network};FBMF/samsung;FBBD/samsung;FBPN/{pkgs};FBDV/SM-A307GT;FBSV/{version};FBOP/1;FBCA/arm64-v8a:;]"
+    return ua
