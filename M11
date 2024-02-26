@@ -1,6 +1,6 @@
 def M11():       
        a = 'Dalvik/2.1.0 (Linux; U; Android 10; ums512_1h10_Natv Build/QP1A.190711.020)'   
        b = "[FBAN/FB4A;FBAV/"+str(random.randint(11,24))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,24)) +";FBBV/"+str(random.randint(4444444,7777777))
-       c = ";[FBAN/FB4A;FBAV/3.5.0;FBBV/288833;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/AT&amp-T;FBPN/com.facebook.katana;FBDV/LG-P925;FBSV/4.0.4;]"
+       c = ";[FBAN/Orca-Android;FBAV/13.0.0.19.13;FBLC/en_US;FBBV/4528166;FBCR/MetroPCS;FBMF/HUAWEI;FBBD/MetroPCS;FBDV/Huawei_Y301A2;FBSV/4.1.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=480,height=800};FB_FW/1;]"
        ua = a+b+c
        return ua    
