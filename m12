@@ -1,0 +1,37 @@
+def M12():
+    _SAMSUNG_MOD = ['SM-A530F','SM-G988U','SM-S9180','SM-A546B','SM-S911U','GT-I9515','SM-W2020','SM-A526B','SM-A530F','SM-A127F','GT-I9515','SM-A528B','SM-G781B','SM-G990B','SM-S901U','SM-A326K','SM-J710FN','SM-A346E','SM-A137F','SM-N9002','SM-N915G','SM-G925F','SM-G925K','SM-Z910F','SM-Z130H','SM-G928C','SM-A127F','SM-F916U','SM-J415M']
+    _VIVO_MOD = ['vivo Z1i','Vivo X','vivo Y55A','vivo 1820','I2208','V2031A','V2006','V2208','V2227A','V1962A','V2253','V2006','vivo 1901','V2253','vivo X9s','I2208','V2002A','V1990A','V2172A','V2283A','V2163A','vivo X6S A','V2227A','V2020CA','V2156A','V2253','V1938T','V2151','vivo 1901','vivo 1801','vivo 1971','vivo 1969','vivo 1904','vivo 1201','vivo 1906','vivo 1911','vivo 1934']
+    _OPPO_MOD = ['PECM30','PFVM10','PGFM10','CPH1925','PEFM00','PEAM00','CPH2513','CPH2569','PEFM00','R8207','PEUM00','OPPO A57t','oppo6833','PFTM10','CPH2579','PGW110','PERM10','PDCM00','PHQ110','CPH1869','OPPO PBAT00','PBAT00','OPPO PBAM00','OPPO PBBT30','OPPO PBAT00','PBAT00']
+    _INFINIX_MOD = ['Infinix X6815D','Infinix X6816','Infinix X675','Infinix X6827','Infinix X666','Infinix X671','Infinix X6517','Infinix X6825','Infinix X6815D','Infinix X6816','Infinix X6820','Infinix X666B','Infinix X689D','Infinix X6827','Infinix X668','Infinix HOT 4 Lite','Infinix X662','Infinix X697','Infinix X676B','Infinix X671B','Infinix X6739']
+    _HUAWEI_MOD = ['Huawei P30 Pro', 'Huawei Mate 20 Pro', 'Huawei P40', 'Huawei Nova 5T', 'Huawei Honor 9X', 'Huawei Y9 Prime', 'Huawei Mate X', 'Huawei P Smart','Huawei Enjoy 20 Pro','Huawei Mate 40 Pro','Huawei P50 Pro','Huawei Nova 7','Huawei Mate 30','Huawei P10','Huawei MediaPad M5','Huawei Honor 10 Lite','Huawei Y7 Prime']
+    _REALME_MOD = ['RMX3491','RMX3357','RMX3706','RMX3700','RMX2173','RMX3125','RMX3201','RMX3478','RMX2072','RMX3041','RMX1941','RMX3611','RMX3231','RMX2061','RMX3706','RMX3395','RMX3115','RMP2106','RMX1941','RMX1941','RMX1981','RMX2941','RMX1947','RMX1741','RMX1851','RMX7373','RMX2727','RMX3838']
+    _XIAOMI_MOD = ['MiTV-AXSO0','22101316UP','2109119BC','23021RAAEG','MI 4S','2109119BC','23013RK75C','22041211AC','MI CC9 Pro Premium Edition','23013RK75C','220333QL','22087RA4DI','M2006C3LG','2109119BC','23021RAAEG','22111317I','23028RA60L','23021RAA2Y','23013RK75C','23021RAA2Y','22111317G','23021RAAEG','22111317I','23028RA60L']
+    _NOKIA_MOD = ['Nokia G42 5G','Nokia G310','Nokia C210','Nokia G42 5G','Nokia 150','Nokia C12 Plus','Nokia C12 Pro','Nokia C12','Nokia C32','Nokia C31','Nokia X30 5G','Nokia C21 Plus','Nokia G21','Nokia C3']
+    android_models = {
+    'samsung': _SAMSUNG_MOD,
+    'HUAWEI': _HUAWEI_MOD,
+    'XIAOMI': _XIAOMI_MOD,
+    'OPPO': _OPPO_MOD,
+    'Vivo': _VIVO_MOD,
+    'Realme': _REALME_MOD,
+    'Infinix': _INFINIX_MOD,
+    'Nokia': _NOKIA_MOD,
+    }
+    bra_nd = random.choice(list(android_models.keys()))
+    and_mod = random.choice(android_models[bra_nd])
+    FBAV = str(random.randint(11,9999))+'.0.0.'+str(random.randint(11,199))+'.'+str(random.randint(10,9999))
+    FBBV = str(random.randint(111111111,999999999))
+    FBSV = random.choice(["5.0.1","5.1","5.0","5.1.0","6.1","6.2.0","7.1.0","7.0","8.1.0","8.0.1","8.0","9.0.1","9.1.0"])
+    FBLC = random.choice(["en_US","es_ES","pt_BR","de_DE","fr_FR","bn_BD","en_BD","es_BD","fr_BD","ru_BD"])
+    FBCR = random.choice(["Grameenphone","Skitto","Robi","Airtel Bangladesh","Banglalink","Teletalk Bangladesh"])
+    FBPN = random.choice(['com.facebook.adsmanager','com.facebook.mlite','com.facebook.lite','com.facebook.orca','com.facebook.katana'])
+    FBDM = random.choice(["{density=3.0,width=1080,height=1920}","{density=2.0,width=720,height=1280}","{density=1.0,width=800,height=1280}","{density=4.0,width=1440,height=2560}","{density=1.5,width=480,height=800}","{density=2.0,width=768,height=1184}","{density=1.75,width=720,height=1280}"])
+    and_vrson = str(random.randint(4,13))
+    FBSV = str(random.randint(1,9))+"."+str(random.randint(0,5))+"."+str(random.randint(0,5))
+    NU_NU = random.choice(string.ascii_uppercase)
+    BLD = random.randint(11111,99999)
+
+
+    END = f"[FBAN/Orca-Android;FBAV/{str(FBAV)};FBPN/com.facebook.orca;FBLC/{str(FBLC)};FBBV/{str(111111111,999999999)};FBCR/{str(FBCR)};FBMF/{str(bra_nd)};FBBD/{str(bra_nd)};FBDV/{str(and_mod)};FBSV/{str(FBSV)};FBCA/armeabi-v7a:armeabi;FBDM/{str(FBDM)};FB_FW/1;] FBBK/1"
+    FIRST = f"Dalvik/2.1.0 (Linux; U; Android {str(and_vrson)}; {str(and_mod)} Build/{str(NU_NU)}{str(BLD)}) "+END
+    return FIRST
