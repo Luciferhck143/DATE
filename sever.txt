@@ -1,100 +1,415 @@
-Mozilla/5.0 (Linux; 12; 2209116AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; SM-A415F Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Config/94.2.1221.22
-Mozilla/5.0 (Linux; Android 9; CMR-AL09 Build/HUAWEICMR-AL09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.163 Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]
-Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; SM-G973F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/422.0.0.26.76;]
-Mozilla/5.0 (Linux; Android 12; Pixel 4a) AppleWebKit/537.43 (KHTML, like Gecko) Chrome/114.0.5735.227 Mobile Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 13; Pixel 5a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaApp_Android/23.74.1 YaSearchBrowser/23.74.1 BroPP/1.0 SA/3 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; SM-A225F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 Vinebre
-Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-G988U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; SM-A105FN Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.90 Mobile/15E148 Safari/604.1
-Mozilla/5.0 (Linux; Android 11; SM-A325F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Audirv%C4%81na%20Studio/20400 CFNetwork/1128.1 Darwin/19.6.0 (x86_64)
-Mozilla/5.0 (Linux; Android 13; CPH2195 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Linux; Android 13; CPH2371 Build/TP1A.220905.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux; Android 13; 22126RN91Y Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/391.1.0.37.104;]
-Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX1A Build/HUAWEIWAS-LX1A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]
-Mozilla/5.0 (Linux; Android 10; M2010J19SL Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/427.0.0.31.63;]
-Mozilla/5.0 (Linux; Android 13; SM-A346B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux; Android 10; POT-LX1 Build/HUAWEIPOT-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75;]
-Mozilla/5.0 (Linux; Android 10; ASUS_Z01RD Build/QKQ1.191008.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.177 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/427.0.0.31.63;]
-Mozilla/5.0 (Linux; Android 13; SM-A715W Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; XQ-AD52 Build/57.0.A.2.306) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Linux; Android 12; Galaxy S10+) AppleWebKit/537.43 (KHTML, like Gecko) Chrome/114.0.5735.227 Mobile Safari/537.44
-Mozilla/5.0 (Linux; arm_64; Android 12; Nokia G20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5855.92 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Mi 11 Ultra) AppleWebKit/537.43 (KHTML, like Gecko) Chrome/112.0.5615.100 Mobile Safari/537.44
-Mozilla/5.0 (Linux; arm; Android 6.0.1; SM-T705) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaApp_Android/22.116/apad YaSearchBrowser/22.116/apad BroPP/1.0 SA/3 Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.227 Mobile Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 13; SM-A325F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36 TA/7.1
-Mozilla/5.0 (Linux; Android 11; Mi 11) AppleWebKit/537.44 (KHTML, like Gecko) Chrome/112.0.5615.100 Mobile Safari/537.46
-Mozilla/5.0 (Linux; Android 11; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.227 Mobile Safari/537.43
-Mozilla/5.0 (Linux; arm_64; Android 10; Mi 9 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0955.114 Mobile Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 12; Mi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5820.11 Mobile Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36
-Roku/DVP-12.0 (12.0.0.4308-E5)
-Whatsapp mensaje
-Mozilla/5.0 (Linux; Android 12; SM-G973F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux; Android 10; SM-J610G Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/46.0.2207.0 OMI/4.20.5.61.LIMA.179 Model/Vestel-MB180 VSTVB MB100 FVC/5.0 (DIGIHOME; MB180; ) HbbTV/1.5.1 (+DRM; DIGIHOME; MB180; 1.64.1.0; ; _TV_G32_2020;) SmartTvA/3.0.0
-Dalvik/2.1.0 (Linux; U; Android 12; moto g stylus (2022) Build/S3RDES32.123-37-4-6)
-Mozilla/5.0 (Linux; Android 12; SM-S901E Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.227 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]
-AppleCoreMedia/1.0.0.21A5312c (iPhone; U; CPU OS 17_0 like Mac OS X; da_dk)
-Mozilla/5.0 (Linux; Android 13; M2101K9AG) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; moto g53 5G Build/T1TP33.75-20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; TA-1032 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203 Unique/99.7.5336.37
-radio.it 5.6.26 (iPhone; iPhone OS 16.6; it_IT)
-Mozilla/5.0 (Linux; Android 13; 22081283G Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Linux; Android 10; SM-A415F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Linux; Android 7.0; WAS-TL10 Build/HUAWEIWAS-TL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux; Android 10; N30 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (Linux; Android 9; POT-LX1A Build/HUAWEIPOT-L41B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 GNews Android/2022148526
-Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/277.0.555192628 Mobile/15E148 Safari/604.1
-Mozilla/5.0 (Linux; Android 10; VOG-L09 Build/HUAWEIVOG-L09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux; Android 11; RMX3231 Build/RP1A.201005.001; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 BingSapphire/26.0.410726301
-Mozilla/5.0 (Linux; Android 9; SM-J330FN Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; SM-A145R Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
-Mozilla/5.0 (Linux; Android 10; BLA-L29 Build/HUAWEIBLA-L29S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.131 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/391.1.0.37.104;]
-radio.net 5.6.29 (iPhone; iPhone OS 16.1; en_DE)
-Mozilla/5.0 (Linux; Android 8.1.0; Redmi 6A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
-Mozilla/5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/337.0.0.7.102;]
-Mozilla/5.0 (Linux; arm_64; Android 10; Redmi Note 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5785.160 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2646.8 Safari/537.36
-Mozilla/5.0 (Linux; Android 12; RMX3363) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; SCM-W09; HMSCore 6.11.0.332) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 HuaweiBrowser/14.0.0.323 Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 11; Redmi Note 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5425.101 Mobile Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 11; Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5845.95 Mobile Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 11; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5700.62 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Redmi Note 10) AppleWebKit/537.44 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.43
-Mozilla/5.0 (Linux; arm_64; Android 12; M2101K6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.3905.116 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; SM-M317F Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 GNews Android/2022148526
-iTunes/4.7.1 (Linux; N; Debian; armv7l-linux; EN; utf8) SqueezeCenter, Squeezebox Server, Logitech Media Server/8.4.0/1692197092
-Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-T725) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203 Herring/98.1.8430.31
-TuneIn Radio Pro/26.2.0; iPhone11,8; iOS/16.6
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0 LikeWise/91.6.2735.36
-TuneIn Radio Pro/26.1.0; iPad7,5; iPadOS/16.3.1
-Mozilla/5.0 (Linux; Android 13; M2011K2G Build/TKQ1.220829.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
-NSPlayer/12.00.22621.2213 WMFSDK/12.00.22621.2213
-iTunes/12.6.5 (Windows; Microsoft Windows 7 Home Premium Edition Service Pack 1 (Build 7601)) AppleWebKit/7605.1033.1002.2
-Mozilla/5.0 (Linux; Android 9; ANE-LX1 Build/HUAWEIANE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 GNews Android/2022148526
-SAMSUNG SM-S901U1
-Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20F75 [FBAN/FBIOS;FBAV/427.1.0.31.64;FBBV/503185394;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/16.5.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/505861933]
-Mozilla/5.0 (Linux; Android 9; SM-J530F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
-AppleCoreMedia/1.0.0.21A5312c (iPad; U; CPU OS 17_0 like Mac OS X; fi_fi)
-Mozilla/5.0 (Linux; Android 11; SM-A105FN Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36 GNews Android/2022086952
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Config/96.2.4781.82
-TuneIn Radio Pro/26.2.0; iPhone13,3; iOS/16.5.1
-Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15 GNews iOS/5.82.102
-Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36 Carbon
-Mozilla/5.0 (Linux; Android 13; CPH2371 Build/TP1A.220905.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.135 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/427.0.0.31.63;]
-Mozilla/5.0 (Linux; Android 9; A7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Viewer/90.9.2908.9
-Mozilla/5.0 (Linux; Android 13; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/422.0.0.18.107;]
-Mozilla/5.0 (Linux; Android 10; AGS3-W09; HMSCore 6.11.0.331) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 HuaweiBrowser/12.0.4.306 Safari/537.36
-Mozilla/5.0 (Linux; arm; Android 10; M2006C3LG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaSearchBrowser/23.56.1 BroPP/1.0 YaSearchApp/23.56.1 webOmni SA/3 Mobile Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.7 Mobile/15E148 Safari/604.1 OPT/4.2.0
-Mozilla/5.0 (Linux; arm_64; Android 13; SM-T225) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.98.01 Safari/537.36
-Mozilla/5.0 (Linux; arm_64; Android 11; SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4015.107 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo Z90a40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; TA-1032) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 7.0; PSP7572DUO Build/NRD90M)
+Mozilla/5.0 (Linux; Android 9; CPH2083) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; vivo 1907 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.3.0.4
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.4 Mobile/15E148 DuckDuckGo/7 Safari/605.1.15
+Dalvik/2.1.0 (Linux; U; Android 9; GM 5 Plus MIUI/V10.3.6.0.PFKCNXM)
+Mozilla/5.0 (Linux; Android 5.1; ZTE Blade A475) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.60 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; moto g(7) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.83 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-T280 Build/NJH47F)
+Dalvik/2.1.0 (Linux; U; Android 10; SKR-H0 MIUI/V11.0.4.0.JOYUI)
+Mozilla/5.0 (Linux; Android 10; LM-V510N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; F-01K Build/V75R060C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 YJApp-ANDROID jp.co.yahoo.android.yjtop/3.71.2
+Mozilla/5.0 (Linux; Android 7.0; SM-G920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A515F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.81 Mobile Safari/537.36
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SAMSUNG-SGH-I337 Build/KOT49H)
+Mozilla/5.0 (Linux; Android 10; SM-G975W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; OPPO R11s Plust Build/PKQ1.190414.001)
+Football Challenge Pro 1.0.4 (iPhone; iOS 13.5.1; en_UG)
+Mozilla/5.0 (Linux; Android 8.1.0; moto e5 play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; CLT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 11; SM-A515F Build/RP1A.200720.012)
+Dalvik/2.1.0 (Linux; U; Android 6.0; Light A103 Build/MRA58K)
+Mozilla/5.0 (Linux; arm_64; Android 10; SM-A505FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.4.76.00 SA/1 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX2155 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5 Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.2.2; FreeTAB 1017 IPS2 X4+ Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; GM1915) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/155.0.367387567 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 10; Infinix X690B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ASUS_X01AD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/45.04.4.4995
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-J810M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G570F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; itel A40 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 9S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1921) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Mobile Safari/537.36,gzip(gfe),gzip(gfe) (Chrome Image Compression Service)
+Dalvik/2.1.0 (Linux; U; Android 11; SM-G988U1 Build/RP1A.200720.012)
+Mozilla/5.0 (Linux; Android 10; SM-G9730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; ZE553KL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; HUAWEI MT7-CL00 Build/HuaweiMT7-CL00)
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:80.0) Gecko/20100101 Firefox/80.0
+Dalvik/2.1.0 (Linux; U; Android 9; LN9910 Build/PPR1.180610.011)
+Mozilla/5.0 (Linux; Android 7.0; SM-N920V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.3.0.QCRMXTC)
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/38.1 Mobile/15E148 Safari/605.1.15
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLRUXM)
+Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; HTC U11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.99 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; rv:72.0) Gecko/20100101 Firefox/72.0 anonymized by Abelssoft 184539559
+Mozilla/5.0 (Linux; Android 9; ANE-LX2J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; BBC100-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 7 Pro Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36 YaApp_Android/10.91 YaSearchBrowser/10.91
+Mozilla/5.0 (Linux; arm_64; Android 5.0.2; ASUS_Z00UDB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 YaBrowser/19.7.4.97.00 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; DUB-LX3 Build/HUAWEIDUB-LX3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 Viber/13.0.0.4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; P00I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Safari/537.36 EdgA/45.03.4.4958
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CI MIUI/V12.0.7.0.QJFINXM)
+Mozilla/5.0 (Linux; Android 9; SM-J701M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.51 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/37.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 8.1.0; CPH1837 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; en-us; CPH1881 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/15.7.2.5
+Mozilla/5.0 (Linux; Android 11; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; 5059S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; BBD100-6 Build/OPM1.171019.026)
+Mozilla/5.0 (Linux; Android 7.0; Lenovo TB-8304F1 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Infinix X626) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36
+Opera/9.80 (Linux mips ; U; HbbTV/1.1.1 Presto/2.6.33 Version/10.70
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 14.0.7248; ms-office; MSOffice 14)
+Mozilla/5.0 (Linux; arm_64; Android 10; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 YaBrowser/20.9.1.66.00 SA/3 TA/7.1 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A115M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; Haier G32 Build/N2G47H)
+Mozilla/5.0 (Linux; Android 9; SM-A750F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; moto x4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-A260G Build/OPR6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0; Lenovo A2016b30 Build/MRA58K)
+Dalvik/1.6.0 (Linux; U; Android 7.0; GT-S7582 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI LYO-L01) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; es-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.2.6-g,gzip(gfe)
+Mozilla/5.0 (Linux; Android 8.0.0; moto e5 plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-J327VPP Build/M1AJQ)
+Mozilla/5.0 (Linux; Android 8.1.0; LG-M320) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; 8002 Build/P00610; rv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Rocket/2.1.21(19805) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; CPH1989) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A307GT) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; POT-LX1 Build/HUAWEIPOT-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-J730G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; ar-iq; JKM-LX1 Build/HUAWEIJKM-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36 PHX/8.8
+Mozilla/5.0 (Linux; Android 7.1.2; LM-X210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; PC-TE510HAW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; B3-A40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9.0; SM-M80'20' Build/LMY47I)
+Mozilla/5.0 (Linux; Android 10; HMA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; Primo R5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66
+Mozilla/5.0 (Linux; Android 8.0.0; WP2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; MAR-LX1M Build/HUAWEIMAR-L01MEA)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/93.0.4577.39 Mobile/15E148 Safari/604.1
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-T587 Build/M1AJQ)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; vivo Y15 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 8.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile DuckDuckGo/5 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; VK815) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A505U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 5.1; V32 Build/LMY47I)
+Mozilla/5.0 (Linux; Android 9; 1EY4G Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.131 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A505YN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX2170) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; moto g stylus Build/QPRS30.80-64-6-6; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.141 Mobile Safari/537.36
+Mozilla/5.0 (Android 12; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Linux; Android 5.1; Avvio_L630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-T290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; JSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; S8_EEA Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.166 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; GT-S5570 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; Android 8.0.0; SM-J337U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; V2029) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 9S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; CPH2037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; VOG-L29 Build/HUAWEIVOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36 YaApp_Android/10.30 YaSearchBrowser/10.30
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX1921) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; 5001A Build/PPR1.180610.011)
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; iLA_Silk Build/iLA_Silk)
+Mozilla/5.0 (Linux; Android 10; SM-A715F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 3a Build/QQ3A.200605.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; D6503) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; KFMUWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/94.1.195 like Chrome/94.0.4606.119 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; CPH1907 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.164 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Yptp/1.23 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; IN2017 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.30 Mobile Safari/537.36
+Opera/9.80 (Android; Opera Mini/20.0.2254/176.158; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Linux; Android 10; SM-A405FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; Lenovo TB2-X30L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; HD1905) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; W_K600 Build/O11019)
+Mozilla/5.0 (Linux; Android 7.1.2; 81C8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; CPH1937 Build/PKQ1.190714.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 7.1.1; E5823) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; STK-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; rv:84.0) Gecko/20100101 Firefox/84.0
+Mozilla/5.0 (Linux; Android 10; moto g(7) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Y2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (X11; CrOS x86_64 13421.73.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.112 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Hammer_IRON_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; REVVLRY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G977B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; Z981) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SGH-I537) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.154
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4381.8 Safari/537.36 OPR/75.0.3953.0 (Edition developer)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:56.0) Gecko/20100101 Firefox/56.0
+Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36
+com.google.GoogleMobile/111.0 iPhone/13.5.1 hw/iPhone10_5
+Mozilla/5.0 (Linux; Android 11; LM-V600) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/46.06.4.5161
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; InfoPath.3; Zoom 3.6.0; Microsoft Outlook 15.0.5233; ms-office; MSOffice 15)
+Mozilla/5.0 (Linux; Android 9; SM-G955F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SOV40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; GM6 Build/O11019)
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro MIUI/V11.0.22.0.QJKCNXM)
+Mozilla/5.0 (Linux; Android 5.0; SM-G900V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi Note 9 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.6.2-gn
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; GHIA_A1 Build/O11019)
+Mozilla/5.0 (Linux; Android 10; CPH2013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; Archos 55 Helium) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 8.3 (build 7317)) Presto/2.12.388 Version/12.15
+Mozilla/5.0 (Linux; Android 9; INE-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; ASUS_X00DDA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/45.03.4.4958
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/10.1 Safari/602.1 EdgiOS/46.1.10
+Mozilla/5.0 (Linux; Android 10; SM-A715W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/45.12.4.5125
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36 Edg/96.0.1054.13
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; M2004J19C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.22 Safari/537.36 Edg/86.0.622.11
+Mozilla/5.0 (Linux; U; Android 9; ru-ru; Redmi Note 7 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.3.2-g
+Dalvik/2.1.0 (Linux; U; Android 10; Orange Nola play Build/QP1A.190711.020)
+Dalvik/2.1.0 (Linux; U; Android 10; 5002D_EEA Build/QKQ1.191008.001)
+Mozilla/5.0 (Linux; Android 10; SM-A600F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.44 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; IN2013 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; JMM-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG-H870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; WP5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 YaBrowser/19.5.2.38.10 YaApp_iOS/32.00 YaApp_iOS_Browser/32.00 Safari/604.1
+Mozilla/5.0 (iPad; CPU OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 EdgiOS/45.9.18 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 8.1.0; S31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 8.1.0; DRA-LX2 Build/HUAWEIDRA-LX2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 OPR/26.0.2254.117551
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/605.1.15
+Dalvik/2.1.0 (Linux; U; Android 9; SHV41 Build/S6100)
+Mozilla/5.0 (Linux; Android 8.0.0; SO-04H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4385.3 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; KFSUWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/92.2.11 like Chrome/92.0.4515.159 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; SM-T560NU Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.105 Safari/537.36
+Apache-HttpClient/4.5.2 (Java/11.0.3)
+Mozilla/5.0 (Linux; Android 10; SM-A115F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; LGL555DL Build/QKQ1.200730.002)
+Mozilla/5.0 (Linux; Android 9; Lenovo TB-7305F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.166 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36 YaApp_Android/10.91 YaSearchBrowser/10.91
+Mozilla/5.0 (Linux; Android 11; GOOGLE Pixel 2 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36 AlohaBrowser/3.1.1
+Dalvik/2.1.0 (Linux; U; Android 9; TA-1032 Build/PPR1.180610.011)
+Mozilla/5.0 (Linux; Android 4.0.4; V8200plus Build/IMM76I) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31
+Dalvik/2.1.0 (Linux; U; Android 5.1; HTC_D728x Build/LMY47D)
+Mozilla/5.0 (Linux; U; Android 10; en-US; Mi 9 Lite Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/13.2.0.1296 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7A MIUI/V12.0.2.0.QCMRUXM)
+Mozilla/5.0 (Linux; Android 8.1.0; BV9500 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; KYV35) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SO-03K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; A60 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0.1; 8080) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7 MIUI/V11.0.10.0.PFLEUXM)
+Mozilla/5.0 (Linux; Android 10; LGL455DL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; TECNO KC3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; V1816T Build/PKQ1.180819.001)
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; Redmi 5A MIUI/V9.2.2.0.0.NCKMIEK)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1; MyPhone MY33) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G955N Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/45.09.4.5078
+Dalvik/2.1.0 (Linux; U; Android 11; Primo GH10 Build/RP1A.201005.001)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; HTC Desire 820G dual sim Build/KOT49H)
+Mozilla/5.0 (Linux; Android 9; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; R19 Build/P00610)
+Mozilla/5.0 (Linux; Android 10; CPH2127) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 MIUI/V12.0.4.0.QGHCNXM)
+Mozilla/5.0 (Linux; Android 8.1.0; AX1077+ Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A530F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; vivo 1907) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36,gzip(gfe),gzip(gfe)
+Mozilla/5.0 (Linux; Android 7.0; Lenovo P2a42 Build/NRD90N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; moto e6 play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J730F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; en-US; JAT-LX1 Build/HONORJAT-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/13.1.8.1295 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A115AP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 YaBrowser/17.10.1.869 (beta) Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45
+Dalvik/2.1.0 (Linux; U; Android 11; Pixel 3a XL Build/RP1A.200720.009)
+Mozilla/5.0 (Linux; Android 9; JAT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 7.0; VZH Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 10; S6 Build/QP1A.190711.020)
+Mozilla/5.0 (Linux; Android 10; MAR-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SHV40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.1.1; HP Slate 7 Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2686.39 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G955N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A705FN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36 YaApp_Android/10.91 YaSearchBrowser/10.91
+Mozilla/5.0 (Linux; arm_64; Android 8.0.0; MI 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.101.00 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SHV46 Build/PKQ1.190626.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.125 Mobile Safari/537.36 YJApp-ANDROID jp.co.yahoo.android.yjtop/3.75.0
+Mozilla/5.0 (Linux; Android 10; SM-G981U1 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G611F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.0 Chrome/79.0.3945.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-J737A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0; mobell tab 7s Build/MRA58K)
+Mozilla/5.0 (Linux; Android 10; HRY-LX1T Build/HONORHRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36 YaApp_Android/10.91 YaSearchBrowser/10.91
+Mozilla/5.0 (Linux; Android 8.0.0; LG-H930) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0; A4 Build/MRA58K)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36/8mqMlPuL-96
+Dalvik/2.1.0 (Linux; U; Android 7.0; FAST7 3G Build/NRD90M)
+Mozilla/5.0 (Linux; Android 10; SM-M317F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX3081) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A115U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J260M Build/M1AJB; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 SamsungBrowser/7.2 Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; Hisense U40 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; moto g play (2021) Build/QZAS30.Q4-39-57-2-2-1-1-3-5; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.50 Mobile Safari/537.36 BingSapphire/21.7.391012302
+Mozilla/5.0 (Linux; arm_64; Android 9; SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.3.90.00 SA/1 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A505GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.2; M6 Note) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 7.0; Note 8 Build/AD192_N01)
+Mozilla/5.0 (Linux; Android 8.0.0; ASUS_Z01HD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/45.12.4.5121
+Mozilla/5.0 (Linux; Android 10; LM-K500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; JAT-L41) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; G8441) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; TR-5401(Treq S1) Build/KOT49H)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 Google-PageRenderer Google (+https://developers.google.com/+/web/snippet/)
+Mozilla/5.0 (Linux; Android 7.0; Bonvi Pro Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/8.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G925F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63
+Mozilla/5.0 (Linux; Android 9; Redmi 6A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-F926U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; 5002S Build/QKQ1.200623.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; Microsoft Outlook 15.0.4420; Microsoft Outlook 15.0.4420; ms-office; MSOffice 15)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.50
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 14.0.7192; ms-office; MSOffice 14)
+Mozilla/5.0 (Linux; Android 10; SM-A015F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.3; pt-br; SAMSUNG SM-G7102T Build/JLS36C) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 mailapp/6.2.8
+Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; BRI/1; .NET4.0E; .NET4.0C; Zoom 3.6.0; TmstmpExt)
+Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RQ3A.211001.001)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0,gzip(gfe)
+Mozilla/5.0 (Linux; U; Android 6.0.1; 5051D Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 OPR/47.2.2254.147957
+Mozilla/5.0 (Linux; Android 9; SM-J415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T536 Build/MMB29K)
+Mozilla/5.0 (Linux; Android 7.0; PRA-TL10 Build/HONORPRA-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36 YaApp_Android/10.91 YaSearchBrowser/10.91
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-I9300 Build/JRO03C)
+Mozilla/5.0 (Linux; Android 9; SM-N970U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; BV6000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; M2004J7AC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 7.0; ru-ru; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.147 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.9.4-go
+Mozilla/5.0 (iPad; CPU OS 12_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 YaBrowser/20.4.3.358.11 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 8.1.0; SM-C710F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G975W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (X11; FreeBSD amd64; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 10; en-gb; RMX1825 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/7.6.6
+Mozilla/5.0 (Linux; Android 10; LYA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A505FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; LDN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0; SMART P1 Build/MRA58K)
+Mozilla/5.0 (Linux; Android 5.1.1; HUAWEI SCL-L01) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; vivo 1907_19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; L-41A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-F700U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+Dalvik/1.6.0 (Linux; U; Android 4.3; HUAWEI H871G Build/HuaweiH871G)
+Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G9750) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; moto g(8) plus Build/QPI30.28-Q3-28-26)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; NUU_X5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; TECNO CF7k) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; JNY-LX1 Build/N6F26Q)
+Mozilla/5.0 (Linux; Android 9; moto g(7) power Build/PPOS29.114-134-13; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; MAR-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+PostmanRuntime/7.26.10
+Mozilla/5.0 (Linux; Android 6.0.1; SM-A320F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36 YaApp_Android/10.30 YaSearchBrowser/10.30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.11 Safari/537.36 Edg/88.0.705.9
+Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi 5 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/11.9.3-g
+Mozilla/5.0 (Linux; Android 6.0.1; q201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 9 Pro MIUI/V11.0.6.0.QJZEUXM)
+Mozilla/5.0 (Linux; Android 5.1; HSG1341) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; ASUS_Z01FD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0.2 Mobile/15E148 Safari/605.1.15 BingSapphire/1.0.390714008
+Mozilla/5.0 (Linux; Android 7.0; SM-G935V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; OptiPlex 990 Build/MOB31E)
+Mozilla/5.0 (X11; NetBSD i686; rv:84.0) Gecko/20100101 Firefox/84.0
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI GRA-L09 Build/HUAWEIGRA-L09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A5000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/46.03.4.5155
+Mozilla/5.0 (Linux; Android 5.1; HTC Desire 728G dual sim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 5.1; G7 Build/LMY47D)
+Mozilla/5.0 (Linux; Android 11; CPH2059) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-P205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G850F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; Lenovo TB-X304L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; POCO F2 Pro MIUI/V12.0.1.0.QJKMIXM)
+Mozilla/5.0 (Linux; Android 10; Redmi 8A Dual) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; BQ-8068L Build/OPM2.171019.012)
+Mozilla/5.0 (Linux; Android 8.1.0; LM-X210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:78.0) Gecko/78.0 Firefox/78.0
+Mozilla/5.0 (Linux; Android 8.1.0; TECNO F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T550) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LM-X420 Build/PKQ1.190302.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.90 Mobile Safari/537.36 OcIdWebView ({"os":"Android","osVersion":"28","app":"com.google.android.gms","appVersion":"218","style":2,"isDarkTheme":false})
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.56 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5A Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36 YaApp_Android/10.30 YaSearchBrowser/10.30
+Mozilla/5.0 (Linux; Android 7.1.2; KFKAWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/83.1.130 like Chrome/83.0.4103.101 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; X230 Build/OPM2.171019.012)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/96 Version/13.0.3 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 5.1; en-US; PGN515 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.12.9.1226 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ONEPLUS A3000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/160.0.373863126 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 10; FP3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36 OPR/64.3.3282.60839
+Mozilla/5.0 (Linux; Android 9; vivo 1915) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36 OPR/59.1.2926.54067
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.0 Chrome/79.0.3945.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Lenovo YT-X705F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; TLA016 Build/O00623; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10.0; Redmi Note 7 MIUI/20.12.10)
+Mozilla/5.0 (Linux; Android 8.1.0; 5033J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; G0245D Build/MMB29M)
+Asana/1.4.0 WebsiteMetadataRetriever
+Mozilla/5.0 (Linux; Android 10; HRY-LX1MEB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 7.1; WOW64) AppleWebKit/536.27 (KHTML, like Gecko) Chrome/36.0.2030.23 Safari/536.27
+Mozilla/5.0 (Linux; Android 10; SM-G988U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/46.01.4.5140
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-S737TL Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; H8216 Build/52.0.A.8.131)
+Dalvik/2.1.0 (Linux; U; Android 11; vivo 1920 Build/RP1A.200720.012)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.85 Safari/537.36 Edg/84.0.522.35
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; Redmi Note 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.2.6-g
+Mozilla/5.0 (Linux; Android 8.1.0; GS370_Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.99 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.181
+Dalvik/2.1.0 (Linux; U; Android 9; ZUK Z2121 Build/PQ3A.190801.002)
+Mozilla/5.0 (Linux; Android 9; H4113) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.3.258 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-J330F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; arm_64; Android 7.0; PRA-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.2.101.00 SA/1 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Phone 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-F926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A015F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.2; K012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; TAS-L29; HMSCore 5.0.0.304) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 HuaweiBrowser/10.1.2.322 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A715F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.159 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Hisense U964 Build/OPM2.171019.012)
+Mozilla/5.0 (Linux; Android 10; SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.86 Mobile Safari/537.36
