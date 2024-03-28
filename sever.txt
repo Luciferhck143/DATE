@@ -1,50 +1,50 @@
-Mozilla/5.0 (iPad; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20D67 Instagram 318.0.7.22.109 (iPad8,7; iPadOS 16_3_1; ru_NL; ru; scale=2.00; 750x1334; 565151867)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21C62 Instagram 314.0.6.16.114 (iPad13,4; iPadOS 17_2; en_IT; en; scale=2.00; 750x1334; 555508374)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21C62 Instagram 314.0.6.16.114 (iPad14,6; iPadOS 17_2; en_GB; en; scale=2.00; 780x1688; 555508374)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21A360 Instagram 307.0.2.23.118 (iPad7,5; iPadOS 17_0_3; pt_PT; pt; scale=2.00; 750x1334; 532569672)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20D67 Instagram 313.0.2.9.339 (iPad11,3; iPadOS 16_3_1; pt_DE; pt; scale=2.00; 750x1334; 553462334)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B101 Instagram 313.0.2.9.339 (iPad11,1; iPadOS 17_1_2; en_FR; en; scale=2.00; 750x1334; 553462334)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19G82 Instagram 312.0.1.19.124 (iPad6,4; iPadOS 15_6_1; it_IT; it; scale=2.00; 750x1334; 548339486)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B101 Instagram 312.0.1.19.124 (iPad13,18; iPadOS 17_1_2; de_DE; de; scale=2.00; 750x1334; 548339486)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20D67 Instagram 312.0.1.19.124 (iPad6,11; iPadOS 16_3_1; en_GB; en; scale=2.00; 750x1334; 548339486)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B101 Instagram 312.0.1.19.124 (iPad13,6; iPadOS 17_1_2; de_DE; de; scale=2.00; 750x1334; 548339486)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19D52 Instagram 312.0.1.19.124 (iPad11,6; iPadOS 15_3_1; de_DE; de; scale=2.00; 750x1334; 548339486)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G81 Instagram 303.3.0.24.111 (iPad11,6; iPadOS 16_6_1; en_JO; en; scale=2.00; 750x1334; 523000219)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/18D70 Instagram 311.0.2.23.115 (iPad5,3; iOS 14_4_2; en_GB; en; scale=2.00; 750x1334; 545017126)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B101 Instagram 312.0.1.19.124 (iPad13,1; iPadOS 17_1_2; es_ES; es; scale=2.00; 750x1334; 548339486)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20H115 Instagram 305.0.0.16.118 (iPad6,11; iPadOS 16_7_2; es_ES; es; scale=2.00; 750x1334; 526608156)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21C62 Instagram 309.1.1.28.108 (iPad13,4; iPadOS 17_2; en_GB; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B101 Instagram 312.0.1.19.124 (iPad13,6; iPadOS 17_1_2; de_DE; de; scale=2.00; 750x1334; 548339486) NW/3	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20D67 Instagram 311.0.2.23.115 (iPad13,1; iPadOS 16_3_1; ja_HU; ja; scale=2.00; 750x1334; 545017126)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20H115 Instagram 311.0.2.23.115 (iPad11,6; iPadOS 16_7_2; es_ES; es; scale=2.00; 750x1334; 545017126)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 311.0.2.23.115 (iPad13,1; iPadOS 17_1_1; de_BR; de; scale=2.00; 750x1334; 545017126)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G81 Instagram 311.0.2.23.115 (iPad7,11; iPadOS 16_6_1; en_US; en; scale=2.00; 750x1334; 545017126)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20F75 Instagram 311.0.2.23.115 (iPad11,1; iPadOS 16_5_1; ru_UA; ru; scale=2.00; 750x1334; 545017126)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad8,1; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad14,2; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad12,1; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G81 Instagram 309.1.1.28.108 (iPad12,2; iPadOS 16_6_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad14,6; iPadOS 17_1_1; en_US; en; scale=2.00; 780x1688; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20C65 Instagram 309.1.1.28.108 (iPad11,7; iPadOS 16_2; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad13,16; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20H115 Instagram 309.1.1.28.108 (iPad6,11; iPadOS 16_7_2; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad8,5; iPadOS 17_1_1; en_US; en; scale=2.00; 780x1688; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20C65 Instagram 309.1.1.28.108 (iPad11,1; iPadOS 16_2; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad13,18; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad7,3; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G81 Instagram 308.0.2.18.106 (iPad7,11; iPadOS 16_6_1; en_US; en; scale=2.00; 750x1334; 533874066)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G81 Instagram 309.1.1.28.108 (iPad11,6; iPadOS 16_6_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad14,4; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad7,5; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad14,5; iPadOS 17_1_1; en_US; en; scale=2.00; 780x1688; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19H370 Instagram 309.1.1.28.108 (iPad5,4; iPadOS 15_8; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad13,1; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 306.0.0.20.118 (iPad13,16; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 529083166)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad13,2; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad13,18; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535) NW/3	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad11,1; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad11,3; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B91 Instagram 309.1.1.28.108 (iPad13,4; iPadOS 17_1_1; en_US; en; scale=2.00; 750x1334; 537288535)	 
-Mozilla/5.0 (iPad; CPU iPhone OS 16_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20H19 Instagram 300.0.0.15.103 (iPad12,1; iPadOS 16_7; en_US; en; scale=2.00; 750x1334; 514327624)	 
-Mozilla/5.0 (iPad; CPU OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 145.0.0.17.119 (iPad8,5; iOS 13_4_1; en_US; en-US; scale=2.00; 1334x750; 218808672)	 
-Mozilla/5.0 (iPad; CPU OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 145.0.0.17.119 (iPad7,11; iOS 13_4_1; en_US; en-US; scale=2.00; 750x1334; 218808672)
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.4113.41 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-au; CPH1729 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.4505.112 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.4258.145 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3606.73 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; PDBM00 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/20.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 5.1.1; zh-cn; OPPO R7sm Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.114 Mobile Safari/537.36 OppoBrowser/3.9.2	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3287.130 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; vi-vn; CPH1923 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.2972.50 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 9; vi-vn; CPH2001 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; vi-vn; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; OPPO R11 Plus Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/4.7.9	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-au; CPH1827 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; en-gb; CPH1859 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 6.0.1; zh-cn; OPPO R9s Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.0.0 Mobile Safari/537.36 OppoBrowser/4.2.8	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/10.5.1.2	 
+Mozilla/5.0 (Linux; U; Android 9; vi-vn; CPH2077 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-us; CPH1801 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; zh-cn; OPPO R11 Build/PKQ1.190414.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/10.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 9; zh-cn; PBBM00 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/10.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; in-id; CPH1729 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; in-id; CPH1801 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; CPH1853 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; OPPO CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/4.7.9	 
+Mozilla/5.0 (Linux; U; Android 9; th-th; CPH2015 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 5.1; in-id; OPPO F1s Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-us; CPH1729 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 5.1; in-id; OPPO F1s Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.0.9,gzip(gfe)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1901 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; lo-la; CPH1923 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; CPH1859 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-au; CPH1853 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; fr-fr; CPH1909 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/2.2.5	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/15.6.3.0.4beta	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/15.6.2.4	 
+Mozilla/5.0 (Linux; U; Android 9; in-id; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-gb; CPH1827 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 6.0.1; zh-cn; OPPO R9sk Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/4.5.2	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; CPH1909 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/2.2.5	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; CPH2001 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; in-id; CPH2015 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1901 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/15.6.0.1	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; CPH1945 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.0.9	 
+Mozilla/5.0 (Linux; U; Android 7.1.1; en-us; CPH1717 Build/N4F26M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/15.6.3.2	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-gb; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; in-id; CPH1819 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/15.5.1.10	 
+Mozilla/5.0 (Linux; U; Android 9; th-th; CPH1969 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.134 Mobile Safari/537.36 OppoBrowser/25.5.1.9
