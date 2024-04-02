@@ -1,5 +1,5 @@
 def M11():       
-       b = "[FBAN/FB4A;FBAV/"+str(random.randint(3,11))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,312)) +";FBBV/"+str(random.randint(11111,66666))
+       b = "[FBAN/FB4A;FBAV/"+str(random.randint(2,8))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,312)) +";FBBV/"+str(random.randint(11111,66666))
        c = "; SAMSUNG-SGH-F480/F480XXHL3 SHP/VPP/R5 NetFront/3.4 Qtv5.3 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1"
        ua = b+c
        return ua    
