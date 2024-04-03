@@ -1,5 +1,5 @@
 def M11():       
        b = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,312)) +";FBBV/"+str(random.randint(1111111,7777777))
-       c = "; SAMSUNG-GT-S5230/S5230AAIF1 SHP/VPP/R5 Jasmine/0.8 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1"
+       c = ";[FBAN/Orca-Android;FBAV/19.0.0.19.42;FBLC/es_ES;FBBV/6398209;FBCR/CELTELHND;FBMF/alps;FBBD/Bmobile;FBDV/AX610;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=320,height=480};FB_FW/1;]"
        ua = b+c
        return ua
