@@ -1,5 +1,5 @@
 def M11():       
-       b = "[FBAN/FB4A;FBAV/"+str(random.randint(11,66))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,312)) +";FBBV/"+str(random.randint(111111,999999))
-       c = ";SAMSUNG-SGH-T819/T819UVGK4 SHP/VPP/R5 NetFront/3.4 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1"
+       b = "[FBAN/FB4A;FBAV/"+str(random.randint(11,66))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,312)) +";FBBV/"+str(random.randint(1111111,7777777))
+       c = "; [FBAN/FB4A;FBAV/26.0.0.22.16;FBBV/6590629;FBDM/{density=1.0,width=600,height=976};FBLC/en_US;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-P3110;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
        ua = b+c
        return ua
