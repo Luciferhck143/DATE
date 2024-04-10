@@ -1,5 +1,3 @@
-def M11():       
-        = "[FBAN/FB4A;FBAV/"+str(random.randint(180,211))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(100,999)) +";FBBV/"+str(random.randint(111111111,149999999))
-       c = ";[FBAN/FB4A;FBAV/216.0.0.38.104;FBBV/149356235;FBDM/{density=3.0,width=1080,height=2060};FBLC/it_IT;FBRV/150334069;FBCR/3 ITA;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/ANE-LX1;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
-       ua = b+c
-       return ua
+def M11():
+    g = "[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20453986;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One S;FBSV/4.1.1;nullFBCA/armeabi-v7a:armeabi;]"
+    return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,312)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
