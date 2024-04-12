@@ -1,3 +1,3 @@
 def M11():
-    g = "[FBAN/Orca-Android;FBAV/18.0.0.27.14;FBLC/en_US;FBBV/5791147;FBCR/Verizon_Wireless;FBMF/HTC;FBBD/htc;FBDV/HTC6525LVW;FBSV/4.4.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]"
+    g = "[FBAN/FB4A;FBAV/1.8.1;FBPN/com.facebook.katana;FBDV/PG86100;FBSV/2.3.4;FBDM/{density=1.5,width=960,height=540};FBCR/MetroPCS ;FBLC/en_US;FB_FW/1;]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
