@@ -1,3 +1,3 @@
 def M11():
-    g = "[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629362;FBDM/{density=2.75,width=1080,height=2150};FBLC/en_GB;FBRV/0;FBCR/Ooredoo;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/MI PLAY;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    g = "[FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=3.0,width=1080,height=2208};FBLC/fr_FR;FBRV/216077496;FBCR/inwi;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1989;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
