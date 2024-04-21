@@ -1,3 +1,3 @@
 def S1N():
-    g = "[FBAN/FB4A;FBAV/460.0.0.0.52;FBBV/451006355;FBDM/{density=2.0,width=800,height=1280};FBLC/en_US;FBCR/null;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/TB-X306X;FBSV/10;nullFBCA/arm64-v8a:;]"
+    g = "[FBAN/MessengerLiteForiOS;FBAV/399.0.0.26.69;FBBV/453638119;FBDV/iPad11,4;FBMD/iPad;FBSN/iPadOS;FBSV/16.3.1;FBSS/2;FBCR/;FBID/tablet;FBLC/en;FBOP/0]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
