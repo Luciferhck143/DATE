@@ -1,3 +1,3 @@
-def M11():
+def S1N():
     g = "[FBAN/FB4A;FBAV/460.0.0.0.52;FBBV/451006355;FBDM/{density=2.0,width=800,height=1280};FBLC/en_US;FBCR/null;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/TB-X306X;FBSV/10;nullFBCA/arm64-v8a:;]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
