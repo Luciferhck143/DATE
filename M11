@@ -1,3 +1,3 @@
-def S1N():
-    g = "[FBAN/FB4A;FBAV/237.0.0.44.120;FBBV/170693408;FBDM/{density=1.75,width=720,height=1280};FBLC/en_US;FBRV/172067074;FBCR/ ;FBMF/samsung;FBBD/samsung;FBPN[FBAN/FB4A;FBAV/"+str(random.randint(10,460))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,99)) +";FBBV/"+str(random.randint(111111,777777777))+";"+g/com.facebook.katana;FBDV/SM-S367VL;FBSV/9;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
-    return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
+def u_a():
+    g = "[FBAN/FB4A;FBAV/237.0.0.44.120;FBBV/170693408;FBDM/{density=1.75,width=720,height=1280};FBLC/en_US;FBRV/172067074;FBCR/ ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S367VL;FBSV/9;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
+    return "[FBAN/FB4A;FBAV/"+str(random.randint(10,460))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,99)) +";FBBV/"+str(random.randint(111111,777777777))+";"+g
