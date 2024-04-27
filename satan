@@ -24,7 +24,7 @@ def api1(ids,names,passlist,total_ids):
 'Accept': '/',
 'Connection': 'keep-alive',
 'POST': '/auth/login HTTP/2',
-'Host': 'b-graph.facebook.com',
+'Host': 'graph.facebook.com',
 'Priority': 'u=3, i',
 'Content-Type': 'application/x-www-form-urlencoded',
 'X-Fb-Sim-Hni': '31002',
