@@ -34,14 +34,14 @@ def api1(ids,names,passlist,total_ids):
 'Authorization': 'OAuth null',
 'X-Fb-Connection-Bandwidth': '24807555',
 'X-Fb-Connection-Type': 'MOBILE.LTE',
-'X-Fb-Device-Group': '6060',
+'X-Fb-Device-Group': '5120',
 'X-Tigon-Is-Retry': 'False',
 'X-Fb-Friendly-Name': 'authenticate',
 'X-Fb-Request-Analytics-Tags': 'unknown',
 'X-Fb-Http-Engine': 'Liger',
 'X-Fb-Client-Ip': 'True',
 'X-Fb-Server-Cluster': 'True',
-'Content-Length': '2126'}
+'Content-Length': '847'}
 			data = {
 'adid':adid,
 'format':'json',
