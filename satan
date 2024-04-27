@@ -19,7 +19,7 @@ def api1(ids,names,passlist,total_ids):
 			plugin = random.choice([network,"AT&-T","T-Mobile"])
 			random_seed = random.Random()
 			adid = str(''.join(random_seed.choices(string.hexdigits, k=16))) 
-			ua  = s1n__1"+"[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+".0.0."+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748110;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Emergency calls only;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/HUAWEI SCL-L01;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]" 
+			ua  = s1n__1 [FBAN/FB4A;FBAV/"+str(random.randint(11,77))+".0.0."+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748110;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Emergency calls only;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/HUAWEI SCL-L01;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]" 
 			head = {
 'User-Agent': ua,
 'Accept-Encoding': 'gzip, deflate',
