@@ -10,7 +10,7 @@ def api1(ids,names,passlist,total_ids):
         for pw in passlist:
             pas = pw.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',names).replace('name',names.lower())
             quality = random.choice(['POOR', 'MODERATE', 'GOOD', 'EXCELLENT'])
-            facebook_version = f"{+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+"."+str(random.randint(11,77))}"
+            facebook_version = f"{random.randint(100, 200)}.{random.randint(0, 100)}.{random.randint(0, 100)}.{random.randint(0, 100)}"
             android_version = f"Android {random.randint(4, 10)}.{random.randint(0, 9)}.{random.randint(0, 9)}"
             ip_address = f"{random.randint(1, 255)}.{random.randint(0, 255)}.{random.randint(0, 255)}.{random.randint(0, 254)}"
             network_carriers = ["Verizon", "AT&T", "T-Mobile", "Sprint"]
