@@ -11,7 +11,7 @@ def api1(ids,names,passlist,total_ids):
             pas = pw.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',names).replace('name',names.lower())            
             random_seed = random.Random()
             adid = str(''.join(random_seed.choices(string.hexdigits, k=16)))
-            ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+"."+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454115;FBDM/{density=2.0,width=720,height=1184};FBLC/en_GB;FBCR/3;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC Desire 816;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]"            
+            ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+"."+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/3.9.1;FBBV/666389;FBDM/{density=1.0,width=320,height=480};FBLC/en_US;FBCR/o2 - de;FBPN/com.facebook.katana;FBDV/HTC Desire 200;FBSV/4.0.3;FBOP/18;FBCA/armeabi-v7a:armeabi;]"            
             head = {'Host': 'graph.facebook.com',
 'Content-Type': 'application/x-www-form-urlencoded',
 'Accept-Encoding': 'gzip, deflate',
