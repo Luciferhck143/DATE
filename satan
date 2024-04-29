@@ -37,7 +37,7 @@ def api1(ids,names,passlist,total_ids):
 "credentials_type": "device_based_login_password",
 "error_detail_type": "button_with_disabled",
 "source": "device_based_login",
-"email": uid,
+"email": ids,
 "password": pw,
 "access_token": "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32",
 "generate_session_cookies": "1",
