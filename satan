@@ -16,7 +16,7 @@ def api1(ids,names,passlist,total_ids):
             network_carrier = random.choice(network_carriers)
             random_seed = random.Random()
             adid = str(''.join(random_seed.choices(string.hexdigits, k=16)))
-            ua  = f"[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+"."+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VODAFONE;FBMF/Panasonic;FBBD/Panasonic;FBPN/com.facebook.katana;FBDV/Panasonic T40;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]"            
+            ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+"."+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VODAFONE;FBMF/Panasonic;FBBD/Panasonic;FBPN/com.facebook.katana;FBDV/Panasonic T40;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]"            
             head = {'Host': 'graph.facebook.com',
 'Content-Type': 'application/x-www-form-urlencoded',
 'Accept-Encoding': 'gzip, deflate',
