@@ -14,7 +14,7 @@ def api1(ids,names,passlist,total_ids):
             en1 = random.choice(["GB","US"])            
             random_seed = random.Random()
             adid = str(''.join(random_seed.choices(string.hexdigits, k=16)))
-            ua  ="[FBAN/Orca-Android;FBAV/"+str(random.randint(410,450))+'.0.0.'+str(random.randrange(1,9))+"."+str(random.randint(50,110)) +";FBBV/"+str(random.randint(410000000,499999999))+";[FBAN/Orca-Android;FBAV/291.2.0.22.114;FBPN/com.facebook.orca;FBLC/en_US;FBBV/257752740;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-S111DL;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1431};FB_FW/1;] FBBK/1" 
+            ua  ="[FBAN/Orca-Android;FBAV/"+str(random.randint(410,450))+'.0.0.'+str(random.randrange(1,9))+"."+str(random.randint(50,110)) +";FBBV/"+str(random.randint(410000000,499999999))+";[FBAN/Orca-Android;FBAV/339.0.0.18.118;FBPN/com.facebook.orca;FBLC/es_US;FBBV/333752212;FBCR/TELCEL;FBMF/samsung;FBBD/samsung;FBDV/SM-A115M;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1411};FB_FW/1;] FBBK/1" 
             head = {
                                 'User-Agent': ua,
 'Content-Type': 'application/x-www-form-urlencoded',
